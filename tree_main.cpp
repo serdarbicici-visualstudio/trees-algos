@@ -15,6 +15,14 @@ int main() {
 
     tree.print_tree();
 
+    tree.add_leaf(9);
+    tree.add_leaf(10);
+    tree.add_leaf(11);
+    tree.add_leaf(12);
+
+    tree.print_tree();
+
+
 
     return 0;
 }

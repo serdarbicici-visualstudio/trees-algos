@@ -120,6 +120,7 @@ void Tree::print_tree() {
                 current = current->right;
             }
         }
+        
     }
     
 }
